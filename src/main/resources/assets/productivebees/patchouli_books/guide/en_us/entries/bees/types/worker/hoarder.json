@@ -3,7 +3,7 @@
     "icon": "minecraft:shulker_shell",
     "read_by_default": true,
     "sortnum": 6,
-    "category": "productivebees:bees/bees_worker",
+    "category": "productivebees:bees/types/bees_worker",
     "pages": [
         {
             "type": "patchouli:text",

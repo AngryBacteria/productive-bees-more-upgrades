@@ -3,7 +3,7 @@
     "icon": "minecraft:iron_ingot",
     "read_by_default": true,
     "sortnum": 1,
-    "category": "productivebees:bees/bees_modded",
+    "category": "productivebees:bees/types/bees_modded",
     "pages": [
         {
             "type": "patchouli:text",

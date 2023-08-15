@@ -2,7 +2,7 @@
     "name": "Magmatic Bee",
     "icon": "minecraft:magma_block",
     "read_by_default": true,
-    "category": "productivebees:bees/bees_wild",
+    "category": "productivebees:bees/types/bees_wild",
     "pages": [
         {
             "type": "patchouli:text",

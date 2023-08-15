@@ -3,7 +3,7 @@
     "icon": "thermal:chiller",
     "read_by_default": true,
     "sortnum": 8,
-    "category": "productivebees:bees/bees_modded",
+    "category": "productivebees:bees/types/bees_modded",
     "flag": "mod:thermal",
     "pages": [
         {

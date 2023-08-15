@@ -3,7 +3,7 @@
     "icon": "productivebees:spawn_egg_yellow_black_carpenter_bee",
     "read_by_default": true,
     "sortnum": 4,
-    "category": "productivebees:bees/bees_solitary",
+    "category": "productivebees:bees/types/bees_solitary",
     "pages": [
         {
             "type": "patchouli:text",

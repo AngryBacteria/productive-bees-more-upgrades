@@ -1,6 +1,6 @@
 {
   "name": "Type of Bees",
-  "description": "In this chapter we will look at all the different bees this mod has to offer. In general there are 5 different types of bees: $(li)$(l:bees_hive)Hive Bees$() $(li)$(l:bees_modded)Mod Bees$() $(li)$(l:bees_worker)Professional$() $(li)$(l:bees_solitary)Solitary Bees$() $(li)$(l:bees_wild)Wild Bees$()$(br2)They all have unique traits and mechanics which we will discuss in the following entries",
+  "description": "In this chapter we will look at all the different bees this mod has to offer. In general there are 5 different types of bees: $(li)$(l:bees/types/bees_hive)Hive Bees$() $(li)$(l:bees/types/bees_modded)Mod Bees$() $(li)$(l:bees/types/bees_worker)Professional$() $(li)$(l:bees/types/bees_solitary)Solitary Bees$() $(li)$(l:bees/types/bees_wild)Wild Bees$()$(br2)They all have unique traits and mechanics which we will discuss in the following entries",
   "icon": "minecraft:honeycomb",
   "parent": "productivebees:bees/bees"
 }
