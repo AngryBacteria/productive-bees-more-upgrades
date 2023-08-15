@@ -1,0 +1,6 @@
+{
+  "name": "Attributes of Bees",
+  "description": "Info about attributes and Genes",
+  "icon": "productivebees:gene",
+  "parent": "productivebees:bees/bees"
+}

@@ -1,7 +1,7 @@
 {
     "name": "Collecting Genes",
     "icon": "productivebees:gene",
-    "category": "productivebees:genetics",
+    "category": "productivebees:bees/bee_attributes",
     "pages": [
         {
             "type": "patchouli:text",
