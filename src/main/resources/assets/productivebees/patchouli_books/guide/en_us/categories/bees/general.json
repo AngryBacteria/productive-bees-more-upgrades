@@ -1,6 +1,0 @@
-{
-  "name": "Attributes of Bees",
-  "description": "General info",
-  "icon": "minecraft:honeycomb",
-  "parent": "productivebees:bees/bees"
-}

@@ -1,0 +1,17 @@
+{
+    "name": "Comb Bees",
+    "icon": "minecraft:honeycomb",
+    "read_by_default": true,
+    "category": "productivebees:bees/types/bees_hive",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Bees that produce Combs",
+            "text": "Most bees produce combs. These combs can then be processed with a $(l:blocks/centrifuge)centrifuge$() to obtain resources such as diamonds, redstone, iron and much more. Not every comb has a 100% chance to produce the resource when consuming it. Additionally honey and wax are produced as well. To view the exact chances and the item output for each comb you can $(l)Right Click$() the combs in JEI"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:diamond'}"
+        }
+    ]
+}

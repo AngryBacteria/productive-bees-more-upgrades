@@ -1,0 +1,17 @@
+{
+    "name": "Item Bees",
+    "icon": "productivebees:draconic_chunk",
+    "read_by_default": true,
+    "category": "productivebees:bees/types/bees_hive",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Bees that produce items",
+            "text": "Even though most bees produce combs, some directly produce items. For these bees you wont need a centrifuge to process their outputs. An example for such bees is the $(l)Lumber Bee$(). There are also bees that output multiple items like the $(l)Water Bee$() and some that even produce items and combs such as the $(l)Ender Bee$(). So keep in mind to filter the different outputs of your beehives when you automate!"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:ender'}"
+        }
+    ]
+}

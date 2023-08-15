@@ -1,0 +1,6 @@
+{
+  "name": "General Mechanics",
+  "description": "General info about bee mechanics",
+  "icon": "minecraft:honeycomb",
+  "parent": "productivebees:bees/bees"
+}

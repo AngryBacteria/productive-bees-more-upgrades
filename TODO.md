@@ -11,6 +11,8 @@
   - [ ] Gene Indexer has wrong char in description
 - [ ] Restructure
   - [ ] Add the Gene Chapter into the Bee Chapter
-  - [ ] Add general bee mechanics chapter into the bee chapter
+  - [ ] Add general mechanics bee mechanics chapter into the bee chapter
+    - [ ] for example block conversion
   - [ ] Add breeding chapter into the bee chapter
   - [ ] Rename 'Advanced Beehives' category to 'Hives & Nests'
+- [ ] Add more "ctrl" Connections such as the advanced beehive

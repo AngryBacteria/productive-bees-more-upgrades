@@ -1,6 +1,6 @@
 {
     "name": "Hive Bees",
-    "description": "Hive bees, like the vanilla bee, live in hives and produce honey and resources. They have to live in $(l:hives/advanced_hives)advanced hives$(/l) to produce resource combs. Most hive bees are bred from solitary bees and other hive bees but some are made by giving a specific item to a bee or by crafting spawn eggs. All bee recipes and flower requirements can be found in JEI.",
+    "description": "Hive bees, like the vanilla bee, live in hives and produce honey and combs. They have to live in $(l:hives/advanced_hives)advanced hives$(/l) to produce resource combs. Most hive bees are bred from solitary bees and other hive bees but some are made by giving a specific item to a bee or by crafting spawn eggs. There is no list of all bees in this Book. Just Enough Items (JEI) has all the information you need. $(l)Left click$() on a bee to see how to obtain/breed it. $(l)Right click$() to see what it outputs and with which blocks to pollinate it",
     "icon": "minecraft:beehive",
     "parent": "productivebees:bees/bees_types"
 }
