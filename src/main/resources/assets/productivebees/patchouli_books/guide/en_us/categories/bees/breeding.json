@@ -1,0 +1,6 @@
+{
+  "name": "Breeding of Bees",
+  "description": "Info about breeding",
+  "icon": "productivebees:upgrade_breeding",
+  "parent": "productivebees:bees/bees"
+}
