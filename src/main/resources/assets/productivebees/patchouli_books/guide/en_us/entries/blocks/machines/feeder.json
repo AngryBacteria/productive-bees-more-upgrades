@@ -1,0 +1,20 @@
+{
+    "name": "Feeding Slab",
+    "icon": "productivebees:feeder",
+    "category": "productivebees:blocks/machines",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:feeder",
+            "text": "A Feeding Slab is a great way to provide pollination sources for the bees without taking up too much space. One slab allows for up two 3 different items to be inserted."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Since an an $(l:blocks/hives/advanced_hive)Advanced Hive$(/l) with a $(l:items/upgrades#simulator)Simulator Upgrade$(/l) only has 1 flower block position, feeding slabs work very well with them, letting you have up to 3 different types of bees working in the hive."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Feeding slabs can be honey-logged giving the bees an excellent place to dip their toes and recover from a long day of works, giving them regeneration."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Bee Jar",
+    "icon": "productivebees:jar_oak",
+    "category": "productivebees:blocks/miscellaneous",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:jar_oak",
+            "text": "With a bee jar you can show a bee of your choice to the world without the risk that it'll fly away. You can use a hopper or some other item pipe to insert a $(l:items/bee_cage)bee cage$(/l) containing a bee of your choosing. You can safely break the jar if you want to store it or move it around, the bee will stay inside."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Note that not only will you loose your bee cage, but you also won't be able to get the bee back once it's inside - so choose wisely!"
+        }
+    ]
+}

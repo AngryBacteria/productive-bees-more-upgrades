@@ -1,0 +1,16 @@
+{
+    "name": "Honey Generator",
+    "icon": "productivebees:honey_generator",
+    "category": "productivebees:blocks/machines",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:honey_generator",
+            "text": "The Honey Generator burns honey to produce FE (energy) which can be used be used by both machines from the mod and completely different mods. It can hold up to 100000FE. Honey can either be inserted via the GUI using honey bottles, blocks or buckets, or via pipes."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "A Honey Generator accepts two upgrades. A $(l:items/upgrades#productivity)Productivity upgrade$(/l) will lower the honey consumption and a $(l:items/upgrades#speed)Speed upgrade$(/l) will increase the speed of the machine."
+        }
+    ]
+}

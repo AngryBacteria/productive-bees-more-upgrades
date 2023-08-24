@@ -1,0 +1,20 @@
+{
+  "name": "Normal Nests",
+  "icon": "productivebees:oak_wood_nest",
+  "category": "productivebees:blocks/nests",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Normal nests can be found scattered around the world and will each be the home of 1 solitary bee. They can be picked up with the bee inside by breaking it without the need of silk touch. To clear a nest, simply craft it with itself."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Nests can attract new bees if you put one or more honey treats in them. Right click with a honey treat to start the repopulation. You can speed up the cooldown with additional treats."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Unlike $(l:blocks/nests/biome_specific_nests)Biome-specific Nests$(/l), Normal Nests can be repopulated at any location. The following is a list of all Normal Nests:$(br)- Oak Nest$(br)- Spruce Nest$(br)- Dark Oak Nest$(br)- Birch Nest$(br)- Jungle Nest$(br)- Acacia Nest$(br)- Stone Nest$(br)- Dirt Nest$(br)- Sand Nest$(br)- Gravel Nest$(br)- Reed Nest"
+    }
+  ]
+}

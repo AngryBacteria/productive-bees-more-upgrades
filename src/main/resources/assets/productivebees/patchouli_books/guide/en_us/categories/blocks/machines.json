@@ -1,0 +1,7 @@
+{
+    "name": "Machines",
+    "description": "In order to help you with maintaining your bees, the mod adds a variety of different machines. They are used to process resources, breed bees, index genes and much more!",
+    "icon": "productivebees:powered_centrifuge",
+    "parent": "productivebees:blocks",
+    "sortnum": 3
+}

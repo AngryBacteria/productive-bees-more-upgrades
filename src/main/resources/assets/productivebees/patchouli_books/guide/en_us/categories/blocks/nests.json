@@ -1,0 +1,7 @@
+{
+    "name": "Nests",
+    "description": "While most bees live in hives, some special ones need a nest as their home. A nest cannot contain any resources or upgrades, which means that bees living in them won't produce any resources.",
+    "icon": "productivebees:oak_wood_nest",
+    "parent": "productivebees:blocks",
+    "sortnum": 2
+}

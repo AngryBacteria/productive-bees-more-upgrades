@@ -1,12 +1,16 @@
 {
     "name": "Expansion Boxes",
     "icon": "productivebees:expansion_box_oak",
-    "category": "productivebees:hives",
-    "sortnum": 3,
+    "category": "productivebees:blocks/hives",
+    "sortnum": 2,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Expansion boxes can be attached to advanced beehives to increase the bee capacity of the hive from 3 to 5. Expansion boxes can be placed on top of or next to the hive. Each hive can only have one expansion box."
+            "text": "Expansion boxes can be attached to $(l:blocks/hives/advanced_beehives)Advanced Beehives$(/l) to increase the bee capacity of the hive from 3 to 5. They can be placed next to or on top of the beehive. Like the Advanced Beehive, they come in different wood types."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Expansion Boxes also allow for up to 4 Upgrades to be installed. When using a Simulator Upgrade, you will be able to insert and remove bees from the hive using the GUI and a bee cage."
         },
         {
             "type": "patchouli:crafting",

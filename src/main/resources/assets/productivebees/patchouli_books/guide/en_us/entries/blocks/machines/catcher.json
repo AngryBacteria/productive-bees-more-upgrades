@@ -1,0 +1,16 @@
+{
+    "name": "Catcher",
+    "icon": "productivebees:catcher",
+    "category": "productivebees:blocks/machines",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:catcher",
+            "text": "The Catcher will catch any bees flying over it, as long as it's supplied with cages. You can put a pollination block/item or $(l:blocks/machines/feeder)Feeding Slab$(/l) on top to attract specific bees."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The Catcher accepts three types of upgrades. A $(l:items/upgrades#babee)BaBee upgrade$(/l) will filter out adult bees and only catch BaBees, using a $(l:items/upgrades#filter)Filter upgrade$(/l) it will only catch the bees specified in the filter, and finally, a $(l:items/upgrades#range)Range upgrade$(/l) will increase the range in which it catches bees. Multiple Range upgrades can be installed."
+        }
+    ]
+}

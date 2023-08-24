@@ -1,0 +1,7 @@
+{
+    "name": "Hives",
+    "description": "Hives are the homes to our little friends, the bees. Resources produced by the them land here and can be collected. Most hives also allow for upgrades to increase their usefulness.",
+    "icon": "productivebees:advanced_oak_beehive",
+    "parent": "productivebees:blocks",
+    "sortnum": 1
+}

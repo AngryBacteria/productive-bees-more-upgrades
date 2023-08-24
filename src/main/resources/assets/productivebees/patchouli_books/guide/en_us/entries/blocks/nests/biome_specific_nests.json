@@ -1,0 +1,16 @@
+{
+  "name": "Biome-specific Nests",
+  "icon": "productivebees:nether_quartz_nest",
+  "category": "productivebees:blocks/nests",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Biome-specific Nests function similar to $(l:blocks/nests/biome_specific_nests)Normal Nests$(/l). They contain 1 solitary bee and can be moved around without silk touch. Unlike their counterpart, repopulation can only happen in a certain biome and sometimes with a certain item."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Since they can only be repopulated in a specific biome, you'll have to search for that first. Down below is a list of all Biome-specific Nests and their respective biome:$(br)- Cherry Nest$(br)- Mangrove Nest$(br)- Bamboo Nest$(br)- Snow Nest$(br)- Obsidian Nest$(br)- Endstone Nest$(br)- Nether Brick Nest$(br)- Nether Gold Nest$(br)- Quartz Nest$(br)- Soulsand Nest$(br)- Glowstone Nest$(br)- Slimy Nest$(br)- Bumble Bee Nest$(br)- Sugarbag Nest$(br)- Warped Bee Nest$(br)- Crimson Bee Nest"
+    }
+  ]
+}

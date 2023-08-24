@@ -1,0 +1,7 @@
+{
+    "name": "Miscellaneous",
+    "description": "All other blocks added by the mod, which don't really fit into one of the previous categories.",
+    "icon": "productivebees:jar_oak",
+    "parent": "productivebees:blocks",
+    "sortnum": 4
+}

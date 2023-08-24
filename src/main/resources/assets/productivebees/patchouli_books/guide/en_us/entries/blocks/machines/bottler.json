@@ -1,12 +1,16 @@
 {
     "name": "Bottler",
     "icon": "productivebees:bottler",
-    "category": "productivebees:blocks",
+    "category": "productivebees:blocks/machines",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "productivebees:bottler",
-            "text": "Used for bottling honey and other fluids. Honey can be pumped into the side or it can be placed next to a centrifuge to be filled automatically.$(br2)The bottler together with a piston can be used to bottle up bees as well, see $(l:genetics/transferring)genetics page$(/l)."
+            "text": "The bottler can be used to insert honey or other fluids into bottles. You can use a pipe to insert a fluid from any side. Alternatively, you can place a centrifuge next to it to automatically transfer the fluid."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When using a piston to squash a bee on top of a bottler you can get squashed bee material which is used for $(l:genetics/transferring)genetics$(/l). Make sure the bottler contains some bottles."
         },
         {
             "type": "multiblock",

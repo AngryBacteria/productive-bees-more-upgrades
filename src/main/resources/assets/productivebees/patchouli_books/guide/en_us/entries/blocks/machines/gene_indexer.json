@@ -1,0 +1,16 @@
+{
+    "name": "Gene Indexer",
+    "icon": "productivebees:gene_indexer",
+    "category": "productivebees:blocks/machines",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:gene_indexer",
+            "text": "The Gene Indexer is used to store and combine genes you got from your bees. Its huge storage allows for a variety of different genes to be inserted."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Giving the Gene Indexer a redstone signal by using a lever, for example, will start combining your genes. Make sure your the percentages of your genes match up so you don't loose any. A gene can't go above 100%."
+        }
+    ]
+}

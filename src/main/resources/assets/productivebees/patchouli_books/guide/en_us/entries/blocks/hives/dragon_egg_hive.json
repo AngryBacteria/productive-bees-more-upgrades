@@ -1,0 +1,17 @@
+{
+    "name": "Dragon Egg Hive",
+    "icon": "productivebees:dragon_egg_hive",
+    "category": "productivebees:blocks/hives",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:dragon_egg_hive",
+            "text": "This hollowed out dragon egg is the perfect home for the $(l:bees/types/bees_wild/draconic)Draconic Bee$(/l). You can find Draconic Bees in obsidian nests in the end. This hive does not support $(l:blocks/hives/expansion_boxes)Expansion Boxes$(/l), and thus no upgrades."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When located in the end, the bees inside the hive do not need a separate pollination source. They can simply use their hive to produce combs. When operating outside the end however, they will need a different pollination source. Like the $(l:blocks/hives/advanced_hives)Advanced Beehive$(/l), it supports hoppers and pipes to get the items out."
+        }
+    ]
+}

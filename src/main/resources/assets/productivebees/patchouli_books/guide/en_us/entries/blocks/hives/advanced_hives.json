@@ -1,0 +1,26 @@
+{
+    "name": "Advanced Hives",
+    "icon": "productivebees:advanced_oak_beehive",
+    "category": "productivebees:blocks/hives",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:advanced_oak_beehive",
+            "text": "The Advanced Beehive is an improved version of the vanilla beehive. It has a campfire built-in, which means that you can safely remove honey and other contents from it without angering the bees. You also don't need silk touch to move this hive around as the bees will simply stay inside it."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:hives/advanced_oak_beehive",
+            "text": "It comes in many different wood types to perfectly fit the design of your base. Both vanilla and modded wood types are supported, depending on the mods you're playing with. Additionally, the hive has great support for automation. Just connect a hopper or some other pipe to it and the items will flow out!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The hive features a GUI which allows you to view the bees that are inside, as well as their products. By default, the hive has 3 slots for bees, but this can be upgraded using an $(l:blocks/hives/expansion_boxes)Expansion Box$(/l). Attaching such box not only increases the bee capacity to 5, it will also allow for 4 different $(l:items/upgrades)Upgrades(/l) to be installed."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you're tired of waiting for the bees to finish their job and get out of the hive, you can whack the hive with a stick to force it out, losing all production progress. This only works if it's safe for the bees to exit."
+        }
+    ]
+}

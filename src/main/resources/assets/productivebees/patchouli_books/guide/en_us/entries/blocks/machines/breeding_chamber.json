@@ -1,0 +1,12 @@
+{
+    "name": "Breeding Chamber",
+    "icon": "productivebees:breeding_chamber",
+    "category": "productivebees:blocks/machines",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:breeding_chamber",
+            "text": "The breeding chamber can be used to breed bees in a safe environment. After inserting two bees using cages, you'll also need to supply their respective breeding item. The breeding can be sped up by using up to 4 speed upgrades. When the process is done, you can take out the bee using a cage. Note that this machine requires FE (energy) to work."
+        }
+    ]
+}

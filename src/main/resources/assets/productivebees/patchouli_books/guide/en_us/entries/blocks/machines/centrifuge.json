@@ -1,0 +1,16 @@
+{
+    "name": "Centrifuge",
+    "icon": "productivebees:centrifuge",
+    "category": "productivebees:blocks/machines",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:centrifuge",
+            "text": "The centrifuge is used to process the $(l:items/combs)Combs$(/l) produced by the bees into their respective resources. Items can be both inserted and extracted using hoppers or something similar. It can also hold up to 10 buckets of liquid, which can be pumped out using pipes. If a block that accepts fluid, like the $(l:blocks/machines/bottler)Bottler$(/l), is placed next to it, it outputs the fluid to that block. Lastly, the centrifuge is used to extract $(l:genetics/transferring)genes$(/l) from squashed bee material."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The centrifuge comes in three different variants. All of them hold up to 4 upgrades, for example to speed them up.$(br)The normal one does not need any power source to work, which makes it perfect for starters. It cannot process comb blocks, only combs, and is rather slow.$(br)The Powered Centrifuge requires FE (energy), but is significantly faster. It can still only not process comb blocks though.$(br)The Heated Centrifuge is the fastest of them all, but has the most cost and energy consumption. It is once again much faster than it's previous variant and can finally process comb blocks."
+        }
+    ]
+}

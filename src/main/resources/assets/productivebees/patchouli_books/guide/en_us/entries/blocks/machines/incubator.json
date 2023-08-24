@@ -1,0 +1,16 @@
+{
+    "name": "Incubator",
+    "icon": "productivebees:incubator",
+    "category": "productivebees:blocks/machines",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:incubator",
+            "text": "An Incubator can be used to speed up the growth of bees. Simply put the BaBee in a cage, and insert it in into the Incubator together with a bunch of honey treats, and it will grow up much faster."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Another use for the Incubator is to infuse an egg with the $(l:genetics/attributes)gene$(/l) of a specific bee type to get their respective spawn egg. Please note that when combining a gene with an egg, only the bee type will be transferred and all other genes (Like productivity or endurance) will be lost."
+        }
+    ]
+}
