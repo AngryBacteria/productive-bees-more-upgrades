@@ -10,7 +10,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "Since an an $(l:blocks/hives/advanced_hive)Advanced Hive$(/l) with a $(l:items/upgrades#simulator)Simulator Upgrade$(/l) only has 1 flower block position, feeding slabs work very well with them, letting you have up to 3 different types of bees working in the hive."
+            "text": "Since an an $(l:blocks/hives/advanced_hives)Advanced Hive$(/l) with a $(l:items/upgrades#simulator)Simulator Upgrade$(/l) only has 1 flower block position, feeding slabs work very well with them, letting you have up to 3 different types of bees working in the hive."
         },
         {
             "type": "patchouli:text",

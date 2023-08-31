@@ -16,17 +16,27 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/breeding",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/catcher)Catcher$(/l).",
+            "text": "Usable in: $(l:blocks/hives/expansion_boxes)Expanded Hives$(/l), $(l:blocks/machines/catcher)Catcher$(/l).",
             "anchor": "babee"
         },
         {
             "type": "patchouli:text",
-            "text": "When installed in a hive, the BaBee upgrade will give a small chance for the bees living inside the hive to breed and produce new offspring without your involvement. Note that bees which can't breed normally do not work with this upgrade. $(br)When installed in a $(l:blocks/catcher)catcher$(/l), only BaBees will be caught and put in cages."
+            "text": "When installed in a hive, the BaBee upgrade will give a small chance for the bees living inside the hive to breed and produce new offspring without your involvement. Note that bees which can't breed normally do not work with this upgrade. $(br)When installed in a $(l:blocks/machines/catcher)catcher$(/l), only BaBees will be caught and put in cages."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/not_babee",
+            "text": "Usable in: $(l:blocks/machines/catcher)Catcher$(/l).",
+            "anchor": "notbabee"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "When installed in a $(l:blocks/machines/catcher)catcher$(/l), only Adult Bees will be caught and put in cages."
         },
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/productivity",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/honey_generator)Honey Generator(/l).",
+            "text": "Usable in: $(l:blocks/hives/expansion_boxes)Expanded Hives$(/l), $(l:blocks/machines/honey_generator)Honey Generator$(/l).",
             "anchor": "productivity"
         },
         {
@@ -36,17 +46,17 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/time",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/centrifuge)Centrifuge$(/l), $(l:blocks/incubator)Incubator$(/l), $(l:blocks/honey_generator)Honey Generator(/l).",
+            "text": "Usable in: $(l:blocks/hives/expansion_boxes)Expanded Hives$(/l), $(l:blocks/machines/centrifuge)Centrifuge$(/l), $(l:blocks/machines/incubator)Incubator$(/l), $(l:blocks/machines/honey_generator)Honey Generator$(/l).",
             "anchor": "speed"
         },
         {
             "type": "patchouli:text",
-            "text": "When installed in a hive, the Speed upgrade will decrease the time a bee spends inside the hive. $(br)When installed in a $(l:blocks/centrifuge)centrifuge$(/l) or an $(l:blocks/incubator)incubator$(/l), it will increase the operation speed"
+            "text": "When installed in a hive, the Speed upgrade will decrease the time a bee spends inside the hive. $(br)When installed in a $(l:blocks/machines/centrifuge)centrifuge$(/l) or an $(l:blocks/machines/incubator)incubator$(/l), it will increase the operation speed"
         },
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/filter",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/catcher)Catcher$(/l).",
+            "text": "Usable in: $(l:blocks/hives/expansion_boxes)Expanded Hives$(/l), $(l:blocks/machines/catcher)Catcher$(/l).",
             "anchor": "filter"
         },
         {
@@ -56,7 +66,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/range",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l), $(l:blocks/catcher)Catcher$(/l).",
+            "text": "Usable in: $(l:blocks/hives/expansion_boxes)Expanded Hives$(/l), $(l:blocks/machines/catcher)Catcher$(/l).",
             "anchor": "range"
         },
         {
@@ -66,7 +76,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/anti_teleport",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l).",
+            "text": "Usable in: $(l:blocks/hives/expansion_boxes)Expanded Hives$(/l).",
             "anchor": "anti_teleport"
         },
         {
@@ -76,7 +86,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/bee_sampler",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l).",
+            "text": "Usable in: $(l:blocks/hives/expansion_boxes)Expanded Hives$(/l).",
             "anchor": "sampler"
         },
         {
@@ -86,7 +96,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/comb_block",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l).",
+            "text": "Usable in: $(l:blocks/hives/expansion_boxes)Expanded Hives$(/l).",
             "anchor": "comb_block"
         },
         {
@@ -96,7 +106,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "productivebees:upgrades/simulator",
-            "text": "Usable in: $(l:hives/advanced_hives#expanded)Expanded Hives$(/l).",
+            "text": "Usable in: $(l:blocks/hives/expansion_boxes)Expanded Hives$(/l).",
             "anchor": "simulator"
         },
         {

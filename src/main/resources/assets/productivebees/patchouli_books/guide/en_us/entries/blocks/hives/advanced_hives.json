@@ -16,7 +16,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "The hive features a GUI which allows you to view the bees that are inside, as well as their products. By default, the hive has 3 slots for bees, but this can be upgraded using an $(l:blocks/hives/expansion_boxes)Expansion Box$(/l). Attaching such box not only increases the bee capacity to 5, it will also allow for 4 different $(l:items/upgrades)Upgrades(/l) to be installed."
+            "text": "The hive features a GUI which allows you to view the bees that are inside, as well as their products. By default, the hive has 3 slots for bees, but this can be upgraded using an $(l:blocks/hives/expansion_boxes)Expansion Box$(/l). Attaching such box not only increases the bee capacity to 5, it will also allow for 4 different $(l:items/upgrades)Upgrades$() to be installed."
         },
         {
             "type": "patchouli:text",

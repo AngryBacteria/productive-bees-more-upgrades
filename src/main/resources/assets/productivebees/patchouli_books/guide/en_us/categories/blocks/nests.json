@@ -1,6 +1,6 @@
 {
     "name": "Nests",
-    "description": "While most bees live in hives, some special ones need a nest as their home. A nest cannot contain any resources or upgrades, which means that bees living in them won't produce any resources.",
+    "description": "While most bees live in hives, some special ones need a nest as their home. A nest cannot contain any resources or upgrades, which means that bees living in them won't produce any resources. Nests are scattered in your world, a $(l:items/nest_locator)nest locator$() is the fastest way to find them!",
     "icon": "productivebees:oak_wood_nest",
     "parent": "productivebees:blocks",
     "sortnum": 2

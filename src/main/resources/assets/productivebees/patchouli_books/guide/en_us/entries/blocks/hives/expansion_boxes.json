@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Expansion boxes can be attached to $(l:blocks/hives/advanced_beehives)Advanced Beehives$(/l) to increase the bee capacity of the hive from 3 to 5. They can be placed next to or on top of the beehive. Like the Advanced Beehive, they come in different wood types."
+            "text": "Expansion boxes can be attached to $(l:blocks/hives/advanced_hives)Advanced Beehives$(/l) to increase the bee capacity of the hive from 3 to 5. They can be placed next to or on top of the beehive. Like the Advanced Beehive, they come in different wood types."
         },
         {
             "type": "patchouli:text",
